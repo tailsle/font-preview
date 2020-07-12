@@ -10,6 +10,12 @@
 
 #### 这个仓库用于记录前端复习笔记，2020年秋招准备，笔记很多内容是网上摘抄过来
 
+
+
+### 说明
+
+#### 文件夹下的内容为每个题目细讲内容，每个md文件只有部分内容，而根目录下的为该分类下的内容合并，文件较大，但内容数量不变
+
 ### 声明
 
 #### 本仓库不参与商业行为，不向读者收取任何费用。(This repository is not engaging in business activities, and does not charge readers any fee.)
