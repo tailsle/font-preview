@@ -12,20 +12,20 @@
 
    ```shell
    git init                     // 新建 git 代码库，同时默认创建一个master分支
-   git add			    // 添加指定文件到暂存区
+   git add			     // 添加指定文件到暂存区
    git rm                       // 删除工作区文件，并且将这次删除放入暂存区
-   git mv			  //移动或重命名一个文件、目录、软连接
+   git mv			    // 移动或重命名一个文件、目录、软连接
    git commit -m [message]      // 提交暂存区到仓库区
    git branch                   // 列出所有分支
    git checkout -b [branch]     // 新建一个分支，并切换到该分支
    git status                   // 显示有变更的文件
-   git clone [url]		    //拷贝一个 Git 仓库到本地
-   git diff		    //查看执行 git status 的结果的详细信息-未还存档改动
-   git diff --cached	    //查看已缓存的改动
-   git diff HEAD		    //查看已缓存的与未缓存的所有改动
-   git diff --state	    //显示摘要而非整个 diff
-   git reset HEAD		    //用于取消已缓存的内容
-   git log			    //查看git提交历史
+   git clone [url]		     // 拷贝一个 Git 仓库到本地
+   git diff		     // 查看执行 git status 的结果的详细信息-未还存档改动
+   git diff --cached	     // 查看已缓存的改动
+   git diff HEAD		     // 查看已缓存的与未缓存的所有改动
+   git diff --state	     // 显示摘要而非整个 diff
+   git reset HEAD		     // 用于取消已缓存的内容
+   git log			     // 查看git提交历史
    ```
 
    
