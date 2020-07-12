@@ -14,7 +14,7 @@
    git init                     // 新建 git 代码库，同时默认创建一个master分支
    git add			     // 添加指定文件到暂存区
    git rm                       // 删除工作区文件，并且将这次删除放入暂存区
-   git mv			    // 移动或重命名一个文件、目录、软连接
+   git mv			     // 移动或重命名一个文件、目录、软连接
    git commit -m [message]      // 提交暂存区到仓库区
    git branch                   // 列出所有分支
    git checkout -b [branch]     // 新建一个分支，并切换到该分支
